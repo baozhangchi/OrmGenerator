@@ -1,0 +1,4 @@
+﻿{
+  "db_type": "MySql",
+  "connection_string": "server=127.0.0.1;userid=root;password=123456;database=test"
+}

@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "DebugRoslynSourceGenerator": {
+      "commandName": "DebugRoslynComponent",
+      "targetProject": "..\\OrmGenerator.Sample\\OrmGenerator.Sample.csproj"
+    }
+  },
+  "$schema": "https://json.schemastore.org/launchsettings.json"
+}
